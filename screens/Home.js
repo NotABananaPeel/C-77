@@ -8,7 +8,9 @@ import {
     Platform,
     StatusBar,
     ImageBackground,
-    Image
+    Image,
+    Background,
+    BackgroundImage
 } from "react-native";
 
 export default class HomeScreen extends Component {
